@@ -13,7 +13,7 @@ body{
                              header styles
 --------------------------------------------------------------------------*/
 header{
-    background-color: blue;
+    background-color: rgb(23, 23, 121);
 }
 nav{
     display: flex;
